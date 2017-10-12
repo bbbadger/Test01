@@ -1,0 +1,121 @@
+{
+  "_class": "group",
+  "do_objectID": "FAF24C0C-60DB-4639-922A-C100E76F4F22",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 50.90909090909091,
+    "width": 48,
+    "x": 1137,
+    "y": 20
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CF57C2D7-F70F-4C70-94DF-32A5B2AC4479"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7E8C2A24-E323-4126-88D3-B2FF8DB89A95"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "53CFD4DD-614A-4979-A322-352B3608BC4C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "45B8CCEE-1F4A-4DD7-8DBF-F31CCE95F34F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "897633BD-B287-47E1-AC27-04B8E96B7E49"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "984F19CD-5AF0-440B-97FA-97773AEF413C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E857BE81-FE09-45BB-B034-30D382FD4EE4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4A7B0FF8-97F9-474C-A5D4-D37479148169"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "987A2754-C040-4348-B2F2-DBD29C7D6721"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7EE87487-8A64-4571-87E9-40CB5AC985E4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A4D7657D-8D29-4C08-A74F-03AA5AAE92DD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2865C11A-EA68-47C4-A13C-C2CE5535DEE8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A436B195-64A3-4F70-A2C7-7FE6D7473503"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A7ACF294-75C1-4BC5-9E8E-B1706C4D6D0B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B64D5B23-5105-444F-A0A5-03C446AF7EBB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "32656873-2DC5-4C01-986F-E862A5994C44"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F3BEFA88-410D-4C67-97E0-7833DF9A7A98"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "80926BF0-8A81-4A4F-AD47-F49EE20084F0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B6F30013-FCF2-4BC2-AC4F-3C503F8673E3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "363548DE-5619-4D27-984E-D21A69C3931D"
+    }
+  ],
+  "name": "Barefoot Logomark",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
